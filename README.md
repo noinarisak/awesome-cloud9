@@ -54,8 +54,7 @@ Collection of tips and gotchas, making Cloud IDE great again! My own personal no
   ```
 - Save your runner with a clever name. (ie. `virtualenv_py3.runner`)
 - Enjoy!
-- Appendix
-  - [ref](https://community.c9.io/t/configuring-a-runner-with-virtualenv/16717), [ref](https://docs.c9.io/docs/custom-runners), [ref](https://docs.c9.io/docs/custom-runners#section-django)
+> Appendix: [ref](https://community.c9.io/t/configuring-a-runner-with-virtualenv/16717), [ref](https://docs.c9.io/docs/custom-runners), [ref](https://docs.c9.io/docs/custom-runners#section-django)
 
 ## Node
 
